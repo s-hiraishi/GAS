@@ -1,5 +1,6 @@
 /**
  *グローバル変数
+ * GitHub変更確認
  */
 // 入力シート
 var inSs = SpreadsheetApp.getActiveSpreadsheet();
